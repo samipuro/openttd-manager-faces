@@ -1,0 +1,4 @@
+##grflangid 0x01
+STR_GRF_NAME :Manager Faces: Remastered
+STR_GRF_DESC :High resolution company manager faces for all four face styles, with 4x zoom graphics, based on an old graphics pack.{}{}Glasses and earrings have no graphics.{}{}Place it below any other face set in the NewGRF list.{}{}Version 1.0.0. By Sami Puro. License: CC BY-NC-SA 3.0.
+STR_GRF_URL :https://github.com/samipuro/openttd-manager-faces
