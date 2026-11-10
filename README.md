@@ -38,7 +38,7 @@ OpenTTD decides which parts the face editor offers, and a NewGRF cannot hide the
 
 ## Installation
 
-Download `Manager Faces: Remastered` from the in-game content download (BaNaNaS), or copy `manager-faces.grf` into the `newgrf` folder of your OpenTTD user folder.
+Download `Manager Faces: Remastered` from the in-game content download ([BaNaNaS](https://bananas.openttd.org/package/newgrf/4d465201)), or copy `manager-faces.grf` from the [GitHub release](https://github.com/samipuro/openttd-manager-faces/releases/latest) into the `newgrf` folder of your OpenTTD user folder.
 
 Then add it to the NewGRF list of a new game.
 
