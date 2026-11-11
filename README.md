@@ -13,7 +13,6 @@ The default OpenTTD face (left) and the same face with `Manager Faces: Remastere
 ## Features
 
 * Portraits for all four face styles, made of layers so most parts can still be changed in the face editor.
-* Graphics for every zoom level: 32bpp at 1x, 2x and 4x, so the faces stay sharp with any interface size, plus 8bpp graphics for the 8bpp blitter.
 * White portraits for face styles 1 and 2, Black portraits for face styles 3 and 4.
 * Variations of hair, eyes, chins, noses, lips and outfits, including grey-haired and balding managers.
 * All four managers remastered:
