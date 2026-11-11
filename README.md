@@ -46,6 +46,8 @@ If you use another face set as well, place `Manager Faces: Remastered` below it 
 
 Made for OpenTTD 15 and newer.
 
+Questions, feedback and bug reports are welcome in the [tt-forums thread](https://www.tt-forums.net/viewtopic.php?t=92967) or as [GitHub issues](https://github.com/samipuro/openttd-manager-faces/issues).
+
 ## Credits
 
 The portraits were originally drawn around 2010 for an early version of [AirwaySim](https://www.airwaysim.com), the online airline management game. AirwaySim no longer uses them and graphics are used here with their permission. This set is a remastered version of that old graphics pack with adjustments for OpenTTD.
